@@ -12,7 +12,8 @@ This template has three goals:
 * It will contain all the necessary files to build and distribute the app.
 * The different parts work independently. 
 
-[![Build Status](https://travis-ci.org/messeb/ios-project-template.svg?branch=master)](https://travis-ci.org/messeb/ios-project-template)
+[![Build Status](https://travis-ci.com/lucabelezal/ios-project-template.svg?branch=master)](https://travis-ci.com/lucabelezal/ios-project-template)
+[![codecov](https://codecov.io/gh/lucabelezal/ios-project-template/branch/master/graph/badge.svg)](https://codecov.io/gh/lucabelezal/ios-project-template)
 
 #### Contact
 
