@@ -12,8 +12,6 @@ platform :ios do
       workspace: "iOSProject.xcworkspace",
       scheme: "iOSProject"
     )
-
-    danger
   end
 
   lane :staging do
